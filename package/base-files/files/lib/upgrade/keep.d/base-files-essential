@@ -7,3 +7,5 @@
 /etc/shells
 /etc/sysctl.conf
 /etc/rc.local
+/etc/config
+/lib/firmware/ath10k/QCA988X/hw2.0/board.bin
